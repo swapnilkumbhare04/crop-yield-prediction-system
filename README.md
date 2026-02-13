@@ -1,6 +1,7 @@
 # Crop Yield Prediction System
 
 **Author:** Swapnil Sanjay Kumbhare
+
 **Institution:** Rajiv Gandhi College of Engineering, Research & Technology, Chandrapur  
 **Program:** B.Tech, Computer Science & Engineering  
 **Project:** AICTE MS Elevate Internship - January 2026
